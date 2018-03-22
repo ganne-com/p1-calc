@@ -287,7 +287,7 @@
 	function writeStatus(w, d){
 	    if (d == 0){
 	        if (w == 40){
-	            return ("Tebrikler" + w + " hafta.");
+	            return ("Tebrikler" + w + " hafta 0 gunluk gebesiniz");
 	        }else{
 	            return ("Tebrikler " + w + " hafta. (hafta " + (w+1) + ")");
 	        }
