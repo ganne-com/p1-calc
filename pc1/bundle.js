@@ -49,7 +49,7 @@
 	        //init datepicker function
 	        function initdatepicker(){
 	              zdpicker.datepicker({ //Initialize datepicker
-	              dayNamesMin: [ "pazar", "ptesi", "salı", "çarş", "perş", "cuma", "ctesi" ],
+	              dayNamesMin: [ "Pz", "Pzt", "Sa", "Çr", "Pr", "Cu", "Ct" ],
 	              monthNames: [ "ocak", "şubat", "mart", "nisan", "mayıs", "haziran", "temmuz", "ağustos", "eylül", "ekim", "kasım", "aralık" ],
 	              altFormat: "dd-mm-yyyy"
 	            });
