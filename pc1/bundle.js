@@ -404,12 +404,12 @@
 	function recommendnormal(recommend, recommendli, w, d){
 	     var week = w + 1;
 	     if (d == 0){
-	         recommend.text("Haftanın bilgilerini okumanızı öneririz. " + week + " hafta hakkında bilgi.");
+	         recommend.text("Sayfa sonundan " + week + ". haftanın bilgilerini okumanızı öneririz. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 	     if (d == 1 || d == 2){
-	         recommend.text("Umarız iyi durumdasınız " + week + " hafta  ile bilgileri tekrar gözden geçirmeni tavsiye ederiz..");
+	         recommend.text("Umarız siz ve bebeğiniz iyi durumdadır. Şimdi " + week + " hafta  ile bilgileri tekrar gözden geçirmenizi tavsiye ederiz..");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
