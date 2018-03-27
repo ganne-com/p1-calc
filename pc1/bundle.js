@@ -379,19 +379,19 @@
 	function normal(recommend, recommendli, w, d){ recommendnormal(recommend, recommendli, w, d);}
 
 	function early(recommend, recommendli, w, d){
-	    recommend.text('Hamile olup oladığınızı söylemek için henüz hala erken. Eğer olduğunu düşünüyorsanız, ilk üç hafta hakkındaki bilgileri okuyabilirsiniz.!');
+	    recommend.text('Hamile olup oladığınızı söylemek için henüz  erken. Eğer olduğunu düşünüyorsanız, ilk üç hafta hakkındaki bilgileri okuyabilirsiniz.!');
 	    recommendli.show();
 	    cw.colourweeks(0, 3);
 	}
 
 	function veryearly(recommend, recommendli, w, d){
-	    recommend.text('Hamile olup oladığınızı söylemek için hala erken. Eğer hamile olduğunuuzu düşünüyorsanız, sayfa sonundan 1,2,3. haftalara giderek gebelik belirtilerini okuyabilirsiniz.');
+	    recommend.text('Hamile olup oladığınızı söylemek için henüz erken. Eğer hamile olduğunuzu düşünüyorsanız, sayfa sonundan 1,2,3. haftalara giderek gebelik belirtilerini okuyabilirsiniz.');
 	    recommendli.show();
 	    cw.colourweeks(0, 3);
 	}
 
 	function sameday(recommend, recommendli, w, d){
-	    recommend.text('Hamile olup oladığınızı söylemek için hala erken. Eğer hamile olduğunuuzu düşünüyorsanız, sayfa sonundan 1,2,3. haftalara giderek gebelik belirtilerini okuyabilirsiniz.!');
+	    recommend.text('Hamile olup oladığınızı söylemek için henüz erken. Eğer hamile olduğunuzu düşünüyorsanız, sayfa sonundan 1,2,3. haftalara giderek gebelik belirtilerini okuyabilirsiniz.!');
 	    recommendli.show();
 	    cw.colourweeks(0, 3);
 	}
