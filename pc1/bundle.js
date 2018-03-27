@@ -409,12 +409,12 @@
 	         cw.colourweeks(0, week);
 	     }
 	     if (d == 1 || d == 2){
-	         recommend.text("Umarım iyi durumdasınız " + week + " hafta  ile bilgileri tekrar gözden geçirmeni tavsiye ederiz..");
+	         recommend.text("Umarız iyi durumdasınız " + week + " hafta  ile bilgileri tekrar gözden geçirmeni tavsiye ederiz..");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 	     if (d == 3 || d == 4){
-	         recommend.text("Umarım haftada iyi iş çıkardın " + week + " Hamileliğinizin Haftanın bilgilerini okumanızı öneririz. " + week + " hafta hakkında detaylı bilgi");
+	         recommend.text("Umarız sizin ve bebeğiniz için her şey yolundadır. sayfa sonundan haftanıza giderek " + week + ". haftada dikkat etmeniz gerekenleri okumanızı öneririz.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
