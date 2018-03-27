@@ -360,18 +360,18 @@
 	var cw = __webpack_require__(6);
 
 	function born(recommend, recommendli, w, d){
-	    recommend.text('40 haftanız doldu. Muhtemelen doğum yapmış olmalısınız. Umarız bebeğinizle ilgili her şey yolunda gitti ve çok mutlusunuz!');
+	    recommend.text('40 Haftanız doldu. Muhtemelen doğum yapmış olmalısınız. Umarız bebeğinizle ilgili her şey yolunda gitti ve çok mutlusunuz!');
 	    recommendli.show();
 	}
 
 	function lastday(recommend, recommendli, w, d){
-	    recommend.text('Buğün hamileliğinizin son günü olabilir. Sakin olmanızı ve 40. haftanın bilgilerini okumanızı öneririz. Bebeğiniz çoktan doğmuş olabilir, umarım bebeğinizle her şey yolunda gitti ve çok mutlusunuz!');
+	    recommend.text('Buğün hamileliğinizin son günü olabilir. Sakin olmanızı ve 40. haftanın bilgilerini okumanızı öneririz.');
 	    recommendli.show();
 	    cw.colourweeks(0, 40);
 	}
 
 	function lastweek(recommend, recommendli, w, d){
-	    recommend.text('Buğün hamileliğinizin son günü olabilir. Sakin olmanızı ve 40. haftanın bilgilerini okumanızı öneririz. Bebeğiniz çoktan doğmuş olabilir, umarım bebeğinizle her şey yolunda gitti ve çok mutlusunuz!');
+	    recommend.text('Bugün hamileliğinizin son günü olabilir. Sakin olmanızı ve aşağıdan 40. haftaya giderek okumanızı öneririz. Bebeğiniz çoktan doğmuşda olabilir, umarım bebeğinizle her şey yolunda gitti ve çok mutlusunuz!');
 	    recommendli.show();
 	    cw.colourweeks(0, 40);
 	}
@@ -385,19 +385,19 @@
 	}
 
 	function veryearly(recommend, recommendli, w, d){
-	    recommend.text('Hamile olup oladığınızı söylemek için henüz hala erken. Eğer olduğunu düşünüyorsanız, ilk üç hafta hakkındaki bilgileri okuyabilirsiniz.');
+	    recommend.text('Hamile olup oladığınızı söylemek için hala erken. Eğer hamile olduğunuuzu düşünüyorsanız, sayfa sonundan 1,2,3. haftalara giderek gebelik belirtilerini okuyabilirsiniz.');
 	    recommendli.show();
 	    cw.colourweeks(0, 3);
 	}
 
 	function sameday(recommend, recommendli, w, d){
-	    recommend.text('Hamile olup oladığınızı söylemek için henüz hala erken. Eğer olduğunu düşünüyorsanız, ilk üç hafta hakkındaki bilgileri okuyabilirsiniz.!');
+	    recommend.text('Hamile olup oladığınızı söylemek için hala erken. Eğer hamile olduğunuuzu düşünüyorsanız, sayfa sonundan 1,2,3. haftalara giderek gebelik belirtilerini okuyabilirsiniz.!');
 	    recommendli.show();
 	    cw.colourweeks(0, 3);
 	}
 
 	function future(recommend, recommendli, w, d){
-	    recommend.text('¡Girdiğiniz tarih bugünden daha büyük!.');
+	    recommend.text('Girdiğiniz tarih bugünden daha büyük!. Bu konuda şu an için bir şeyler söylemek mümkün değil. Keske söyleyebilsek :)');
 	    recommendli.show();
 	}
 
@@ -419,7 +419,7 @@
 	         cw.colourweeks(0, week);
 	     }
 	     if (d == 5 || d == 6){
-	         recommend.text("Artık mutlu sona yaklaşıyorsunuz " + week + ".hafta ile ilgili bilgileri " + week + "......" + (week+1) + " böylece güne en iyi şekilde başmaış olursunuz.");
+	         recommend.text("Umarız şu ana kadar sorunsuz bir gebelik geçirmişsindir. Bugün itibari ile " + week + ". haftanın son günlerindesiniz. " + week + ". hafta ile ilgili bilgileri tekrar gözden geçirmenizi tavsiye ederiz. Ayrıca sayfanın sonundan " + (week+1) + ". haftaya giderek ilgili haftanın bilgilerini okuyarak yeni haftanıza hazır başlayabilirsiniz.");
 	         recommendli.show();
 	         cw.colourweeks(week, (week+1));
 	     }
