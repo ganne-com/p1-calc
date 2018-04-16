@@ -379,7 +379,7 @@
 	function normal(recommend, recommendli, w, d){ recommendnormal(recommend, recommendli, w, d);}
 
 	function early(recommend, recommendli, w, d){
-	    recommend.text('Hamile olup oladığınızı söylemek için henüz  erken. Eğer olduğunu düşünüyorsanız, ilk üç hafta hakkındaki bilgileri okuyabilirsiniz.!');
+	    recommend.text('Hamile olup oladığınızı söylemek için henüz  erken. Eğer hamile olduğunuzu düşünüyorsanız, ilk üç hafta hakkındaki bilgileri okuyabilirsiniz.!');
 	    recommendli.show();
 	    cw.colourweeks(0, 3);
 	}
@@ -404,7 +404,7 @@
 	function recommendnormal(recommend, recommendli, w, d){
 	     var week = w + 1;
 	     if (d == 0){
-	         recommend.text("Sayfa sonundan " + week + ". haftanın bilgilerini okumanızı öneririz. ");
+	         recommend.text("Sayfa sonundan " + week + ". haftaya giderek haftanın bilgilerini okumanızı öneririz. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
