@@ -289,11 +289,11 @@
 	        if (w == 40){
 	            return ("Tebrikler" + w + " hafta1.");
 	        }else{
-	            return ("Tebrikler " + w + " hafta 0 gunluk gebesiniz.(hafta " + (w+1) + ")");
+	            return ("Tebrikler " + w + " hafta 0 gunluk gebesiniz ");
 	        }
 	    }
 	    else{
-	        return("Tebrikler!  " + w + " hafta  " + d + " günlük gebesiniz   ( haftanız: " + (w+1) + ")");
+	        return("Tebrikler!  " + w + " hafta  " + d + " günlük gebesiniz...");
 	    }
 	}
 
