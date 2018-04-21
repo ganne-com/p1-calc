@@ -402,7 +402,7 @@
 	}
 
 	function recommendnormal(recommend, recommendli, w, d){
-	     var week = w ;
+	     var week = w+1;
 	     if (d == 0){
 	         recommend.text("Sayfa sonundan " + week + ". haftaya giderek haftanın bilgilerini okumanızı öneririz. ");
 	         recommendli.show();
