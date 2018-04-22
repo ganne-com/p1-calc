@@ -419,7 +419,7 @@
 	         cw.colourweeks(0, week);
 	     }
 	     if (d == 5 || d == 6){
-	         recommend.text("Umarız şu ana kadar sorunsuz bir gebelik geçirmişsindir. Bugün itibari ile " + (week-1) + ". haftanın son günlerindesiniz. " + week + ". hafta ile ilgili bilgileri tekrar gözden geçirmenizi tavsiye ederiz. Ayrıca sayfanın sonundan " + (week+1) + ". haftanın bilgilerini okuyarak haftaya hazır başlamanızı tavsiye ederiz.");
+	         recommend.text("Umarız şu ana kadar sorunsuz bir gebelik geçirmişsindir. Bugün itibari ile " + (week+1) + ". haftanın son günlerindesiniz. " + week + ". hafta ile ilgili bilgileri tekrar gözden geçirmenizi tavsiye ederiz. Ayrıca sayfanın sonundan " + (week+1) + ". haftanın bilgilerini okuyarak haftaya hazır başlamanızı tavsiye ederiz.");
 	         recommendli.show();
 	         cw.colourweeks(week, (week+1));
 	     }
