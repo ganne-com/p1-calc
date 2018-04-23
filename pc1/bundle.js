@@ -414,7 +414,7 @@
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 5){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 5 mm, kilosundan henüz bahsedilemez. <a href='url'>https://www.gebelikveanne.com</a> ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 5 mm, kilosundan henüz bahsedilemez.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
