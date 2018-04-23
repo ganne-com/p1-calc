@@ -449,67 +449,67 @@
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 12){
-	         recommend.text("Hamilelik haftanız 13: Bu hafta itibari ile bebeğinizin boyu 9 cm, kilosu ise ortalama 40 gram oldu. Bebeğiniz bu hafta bir nektarin kadar oldu. 13. hafta 1. trimester yani ilk 3 aylık dönemin son haftası. 2. trimester bence hamileliğin en güzel zamanlarını kapsıyor. Şikayetlerin en aza indiği ve hamileliği çok güzel hissettiğin döneme kavuşmana sadece bir hafta kaldı. Bebeğin gözleri daha önce birbirinden uzakken bu haftada birbirine yaklaşmaya başlar, kulaklar normal yerlerine doğru ilerler ve bebeğin yüzü normal insan yüzüne benzemeye başlar. Bebeğin ses telleri oluşmaya başlar. Bu haftada bebeğe yakından bakılabilse cinsiyeti dış genital organlarına bakarak söylenebilecek kadar gelişmiştir. Bu haftalarda ancak çok gelişmiş ultrason cihazları ile cinsiyeti tahmin edilebilir, daha net görülebilmesi için bir kaç hafta daha büyümesi gerekecektir. Bu haftada bebeğin karaciğerinden safra sıvısı salgılanabilir, pankreas bezinden insülin üretimi başlamıştır. Bebeğin damaklarının altında 20 adet dişi oluşmuştur. Bu haftalarda, 10-14. haftalar arası doktorunuz ikili test olarak bilinen test yapacaktır. Bu test Down sendromu ve birkaç kromozon anormallik riskini tespit etmek için önemlidir.");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bu hafta itibari ile bebeğinizin boyu 9 cm, kilosu ise ortalama 40 gram oldu. Bebeğiniz bu hafta bir nektarin kadar oldu. 13. hafta 1. trimester yani ilk 3 aylık dönemin son haftası. 2. trimester bence hamileliğin en güzel zamanlarını kapsıyor. Şikayetlerin en aza indiği ve hamileliği çok güzel hissettiğin döneme kavuşmana sadece bir hafta kaldı. Bebeğin gözleri daha önce birbirinden uzakken bu haftada birbirine yaklaşmaya başlar, kulaklar normal yerlerine doğru ilerler ve bebeğin yüzü normal insan yüzüne benzemeye başlar. Bebeğin ses telleri oluşmaya başlar. Bu haftada bebeğe yakından bakılabilse cinsiyeti dış genital organlarına bakarak söylenebilecek kadar gelişmiştir. Bu haftalarda ancak çok gelişmiş ultrason cihazları ile cinsiyeti tahmin edilebilir, daha net görülebilmesi için bir kaç hafta daha büyümesi gerekecektir. Bu haftada bebeğin karaciğerinden safra sıvısı salgılanabilir, pankreas bezinden insülin üretimi başlamıştır. Bebeğin damaklarının altında 20 adet dişi oluşmuştur. Bu haftalarda, 10-14. haftalar arası doktorunuz ikili test olarak bilinen test yapacaktır. Bu test Down sendromu ve birkaç kromozon anormallik riskini tespit etmek için önemlidir.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 13){
-	         recommend.text("Hamilelik haftanız 14: Bebeğinizin boyu 12 cm, kilosu ise 60 grama ulaştı. Bu hafta bebeğiniz tıpkı bir elma kadar. İdrar üretimi başlıyor. Bebeğiniz artık daha hareketli el ve avuçlarını açabiliyor, parmağını ağzına götürüp emebiliyor, esneme hareketi yapıyor. Bu hafta tat tomurcukları oluşmaya başladı bebeğiniz artık annenin yediği şeylerin tadını alabiliyor. Bebeğiniz bu haftadan itibaren anne sesini uğultu olarak duyabilir. Anne sesini 25 haftadan sonra net olarak duyar, 27. haftadan itibaren ise dış sesleri duyabilir. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 12 cm, kilosu ise 60 grama ulaştı. Bu hafta bebeğiniz tıpkı bir elma kadar. İdrar üretimi başlıyor. Bebeğiniz artık daha hareketli el ve avuçlarını açabiliyor, parmağını ağzına götürüp emebiliyor, esneme hareketi yapıyor. Bu hafta tat tomurcukları oluşmaya başladı bebeğiniz artık annenin yediği şeylerin tadını alabiliyor. Bebeğiniz bu haftadan itibaren anne sesini uğultu olarak duyabilir. Anne sesini 25 haftadan sonra net olarak duyar, 27. haftadan itibaren ise dış sesleri duyabilir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 14){
-	         recommend.text("Hamilelik haftanız 15: Bu hafta bebeğinizin boyu 15 cm, kilosu ise 90 gram oldu. Bu hafta itibari ile bebeğiniz bir portakal kadar oldu. Bebeğiniz 15 haftalıkken tüm eklemlerini hareket ettirebiliyor ama siz bunu hala hissedemezsiniz. Bebeğiniz artık hıçkırabiliyor. Bebeğinizin dilindeki tat alma sinirleri oluşmaya başladı. Sonraki haftalarda bebeğiniz sizin yediğiniz tatları alabilecektir. Bu haftadan itibaren bebeğinizin cildini Lanugo adı verilen tüy kaplamaya başlacak, bu tüyler 26. haftadan itibaren tekrar dökülecektir. Bu hafta doktorunuz üçlü tarama testi isteyebilir. Eğer ikili tarama testinizde her şey normal çıktıysa doktorunuz üçlü tarama testi istemeyebilir.");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bu hafta bebeğinizin boyu 15 cm, kilosu ise 90 gram oldu. Bebeğiniz bir portakal kadar oldu. Bebeğiniz 15 haftalıkken tüm eklemlerini hareket ettirebiliyor ama siz bunu hala hissedemezsiniz. Bebeğiniz artık hıçkırabiliyor. Bebeğinizin dilindeki tat alma sinirleri oluşmaya başladı. Sonraki haftalarda bebeğiniz sizin yediğiniz tatları alabilecektir. Bu haftadan itibaren bebeğinizin cildini Lanugo adı verilen tüy kaplamaya başlacak, bu tüyler 26. haftadan itibaren tekrar dökülecektir. Bu hafta doktorunuz üçlü tarama testi isteyebilir. Eğer ikili tarama testinizde her şey normal çıktıysa doktorunuz üçlü tarama testi istemeyebilir.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 15){
-	         recommend.text("Hamilelik haftanız 16: Bebeğinizin boyu 17 cm, kilosu 100 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Boyu 17 kilosu ise 100 gram'a ulaştı. Bebeğiniz tam bir avakado büyüklüğünde. Bebeğinizin bu hafta bol bol hareket eder. Eğer ilk gebeliğinizin değilse artık hareketlerini hissedebilirsiniz. İlk gebeliğiniz ise hareketleri hissetmek için 21. haftayı beklemeniz gerekebilir. Bebeğiniz artık başını dik tutabiliyor. el ve ayak tırnakları uzamaya devam ediyor. Kulak ve gözleri ön kısma gelerek asıl yerini aldı. Gebeliğin 16. Haftasında bebeğin cinsiyeti kesinleşir. Her ne kadar 13. haftadan itibaren tahmin edilebilse de cinsiyetin kesinleştiği hafta 16. haftadır. Artık alışverişe ve isim aramaya başlayabilirsiniz. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 16){
-	         recommend.text("Hamilelik haftanız 17: Bebeğinizin boyu 20 cm, kilosu 130 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 20 cm, kilosu ise 100 gram oldu. Bebeğiniz bu hali ile tam bir nar kadar oldu. Bebeğinin ter bezleri gelişmeye başladı ve o bu hafta itibariyle minicik eklemlerini çok rahat oynatabiliyor. Kalp atışları artık beyin kontrolü ile gerçekleşiyor ve gebeliğin 17. haftasında dakikada yaklaşık 140-150 kez kalbi atıyor ki, bu da seninkinin neredeyse iki katı. Bu haftadan itibaren bebeğinin vücudundaki yağ depolarında yağ birikmeye başlar, bu ona bir taraftan enerji sağlarken diğer taraftan da vücudunun şekillenmesini ve onun sıcak kalmasını sağlar. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }	   
 		  if (w == 17){
-	         recommend.text("Hamilelik haftanız 18: Bebeğinizin boyu 21 cm, kilosu 170 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: 18. hafta itibari ile bebeğinizin boyu 20 cm, kilosu ise 130 gram oldu. Bu haliyle tam bir enginar büyüklüğüne ulaştı. Bebeğiniz iyice hareketlenmeye başladı. Bebek anne karnında ufak ufak dalga dalga hareketler yapıyor. Eğer ilk gebeliğiniz ise bu hareketleri henüz hissedemezsiniz. Bu hafta dişleri oluşmaya başlıyor. Bebeğiniz artık bazı şiddetli sesleri duyabiliyor. Ani korna sesi, şiddetli patlama sesi, kapı çarpması gibi. Yine bebeğiniz aşırı hareketli ve sıkı sık pozisyon değiştiriyor. Eğer bebeğiniz erkekse dış genital organları iyice belli olmaya başladı bile. Doktorunuz siz bebeğinizin genital fotoğrafını verebilir. El ve ayaklardaki kıvrımlar daha da belirginleşti. Mekanyum adı verilen bebeğin ilk dışkısı bu hafta oluştu. Esneme, hıçkırma, ekşitme gibi yüz mimikleri yapabilir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 18){
-	         recommend.text("Hamilelik haftanız 19: Bebeğinizin boyu 23 cm, kilosu 210 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bu hafta bebeğin iri bir domates kadar. Boyu 15 cm oldu, kilosu ise 250 gram kadar. Bu hafta deri üzerinde Vernix caseosa denilen  koruyucu bir katman deri üzerinde oluşmaya başladı. Bu madde beyaz kremsi bir yapıya sahip olan madde bebeğinizin cildini kaplayacak ve hamilelik boyunca ve amnion sıvısına sürekli temastan ve sürtünmelerden koruyacak. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 19){
-	         recommend.text("Hamilelik haftanız 20: Bebeğinizin boyu 25 cm, kilosu 250 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğin bu hafta 22-24 cm aralığında boya sahipken kilosu ise 300 gramdır. Bu haliyle O bir mango kadar. Anne 20 haftalık bebek hareketlerini hareketlerini hissedebiliyor. Anne ve bebek arasında bir hareket bağı oluştu. 20 hafta itibari ile artık bebeğin uyku düzeni oluşmaya başladı. Bebeğinizin tıpkı yeni doğmuş bir bebek gibi bazen uyuyor bazen uyanıyor. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 20){
-	         recommend.text("Hamilelik haftanız 21: Bebeğinizin boyu 28 cm, kilosu 310 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 28 cm, ağırlığı ise 310 gram. Bebeğiniz bu hafta bir muz büyüklüğüne ulaştı. artık büyüme yerini kilo artışına bırakacaktır. Uzama ve büyüme yavaşlıyor artık bebeğiniz kilo almaya başlayacak. Bebeğinizin sindirim sistemi iyece gelişiyor. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 21){
-	         recommend.text("Hamilelik haftanız 22: Bebeğinizin boyu 29 cm, kilosu 400 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 29 cm, kilosu 400 gram. Bebeğinizin kafası artık bir tenis topu kadar oldu. Artık 10 günde ortalama 100 gram kilo artışı olacaktır. Bebek artık kıpır kıpırdır hareketlerini net bir şekilde hissedersiniz. Dışarıdan gelen sesler onu uyandırabilir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 22){
-	         recommend.text("Hamilelik haftanız 23: Bebeğinizin boyu 30 cm, kilosu 500 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: 23. haftadasınız. Bebeğinizin boyu 30 cm, kilosu 500 gram. Tam bir patlıcan kadar oldu. Bebeğinizin hareketlerini ne olarak hissedebiliyorsunuz. Hatta hareketlerini bile ayırt edebilirsiniz. Tekme mi atıyor, hıçkırıyor mu, esniyor mu bunları bile ayırt etme ihtimaliniz var. 23 haftalık bebek hareketleri kıpır kıpır, kanat çırpması, hıçkırma, esneme şeklindedir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 23){
-	         recommend.text("Hamilelik haftanız 24: Bebeğinizin boyu 31 cm, kilosu 600 gram. ");
+	         recommend.text("Hamilelik Haftanız 24: Bebeğinizin boyu 31 cm, kilosu 600 gram. O artık bir mısır koçanı kadar. Bebeğiniz artık daha fazla ve şiddetli hareket ediyor.  24 haftalık gebelikte bebeğinizin  hareketlerini artık babası da hissedebilir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 24){
-	         recommend.text("Hamilelik haftanız 25: Bebeğinizin boyu 33 cm, kilosu 725 gram. ");
+	         recommend.text("Hamilelik haftanız 25: Bebeğinizin boyu 33 cm, kilosu 725 gram. Bu haliyle irice bir turp kadar. Nefes alıp vermenin görünen organı olan burun da bu hafta itibariyle çalışmaya başlıyor. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
