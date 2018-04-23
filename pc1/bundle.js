@@ -409,22 +409,22 @@
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 4){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin Bebeğinizin boyu 3,4 mm, kilosundan henüz bahsedilemez.");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Artık 1 ay 5 günlük gebesiniz. Bu hafta itibari ile bebeğinizin görüntülerini ve kese boyunu ultrasonla görebilirsiniz. Kalp Atışları hala duyulmaz. Bebeğiniz boyu 3-4 mm, henüz kilosundan bahsetmek mümkün değildir.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 5){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 5 mm, kilosundan henüz bahsedilemez.");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 5 mm, kilosundan henüz bahsedilemez.Bu hafta ultason ile bebeğinizin görüntüsünü görebilir, kalp atış sesini duyabilirsiniz. Artık bebeğiniz canlıdır diyebiliriz. Bebeğin göbek kordonu oluşur. Gözler, kulaklar ve ağız boşluğu belirmeye başlar. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 6){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi : Bebeğinizin boyu 9 mm, kilosu 0,4 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi : Bebeğinizin boyu 9 mm, kilosu 0,4 gram. Bebeğiniz bu hali ile böğürtlen kadar oldu. Artık 1 ay 19 günlüksünüz. Bebeğinizin gözü oluşturacak tomurcuklar belirmeye başladı. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 7){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi:Bebeğinizin boyu 13 mm, kilosu 1 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bu hafta itibari ile bebeğinizin boyu 13 mm, kilosu ise 1 gram oldu. Bebeğiniz bu hali ile tam bir çekirdek tanesi kadar oldu. 1 ay 26 günlük oldunuz. El ve ayak tomurcukları artık perdeli yapılar halinde dönüştü. Yani el ve ayakları oluşmaya başladı denilebilir. Bacakları, eklemler, diyafram, diş taslakları oluşmaya başladı. Beyinde sinir üretimi başlıyor. Kulak kepçesi, ağız, üst dudak ve damak oluşumları başlamıştır. Yine bu haftada kalp atımı ultrasonla görüntülenebilir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
