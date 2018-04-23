@@ -434,32 +434,32 @@
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 9){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bu hafta bebeğinizin boyu 3 cm, ağırlığı ise 3 gram oldu. Bu haliyle bir çilek kadar oldu. Bu hafta itibarı ile bebeğiniz artık embriyo değil fetus olarak adlandırılacak. Bu aynı zamanda hamilelikte tehlikeli dönemin atlatıldığınında habercisidir. Tırnaklar oluşmaya başlıyor. Dış genital organları belirmeye başladı. Artık organlar tamamlandı bu haftadan itibaren organlar fonksiyonunu tamamlamaya devam edecektir. Bebekte ilk hıçkırıklar (anne bu hıçkırıkları hissedemez) ve kemik yapımı başlıyor. İlk oluşan kemik köpürcük kemiği olacak. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bu hafta bebeğinizin boyu 3 cm, ağırlığı ise 3 gram oldu. Bu haliyle bir çilek kadar oldu. Bu hafta itibarı ile bebeğiniz artık embriyo değil fetus olarak adlandırılacak. Bu aynı zamanda hamilelikte tehlikeli dönemin atlatıldığınında habercisidir. Tırnaklar oluşmaya başlıyor. Dış genital organları belirmeye başladı. Artık organlar tamamlandı bu haftadan itibaren organlar fonksiyonunu tamamlamaya devam edecektir. Bebekte ilk hıçkırıklar (anne bu hıçkırıkları hissedemez) ve kemik yapımı başlıyor. İlk oluşan kemik köpürcük kemiği olacak. Ayrıca, önümüzdeki haftadan itibaren 10-14. haftalar arası doktorunuz ikili test olarak bilinen test yapacaktır. Bu test Down sendromu ve birkaç kromozon anormallik riskini tespit etmek için önemlidir.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 10){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 6 cm, kilosu 17 gram.");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu bu hafta 6 cm, ağırlığı ise 17 gram oldu. Bu hali ile tam bir limon kadar oldu. Bu hafta itibarı ile bebeğinizin hareketleri iyice artıyor ama anne bu hareketleri hissedemez.  Saç oluşumu başlıyor,  cinsel organları daha da belirginleşiyor, ağzını açar kapar, dilini hareket ettirebilir, göz kapakları tamamen kapandı, hareketleri arttı, kızlarda yumurtalıklarda yumurta üretimi başladı. Bebeğiniz artık baş parmağını emebiliyor.. Esneme hareketleri yapıyor. Amniyon sıvısını yutabiliyor. İdrar üretimi başlıyor. Cinsiyetini söylemek için henüz erken. Bu haftalarda, 10-14. haftalar arası doktorunuz ikili test olarak bilinen test yapacaktır. Bu test Down sendromu ve birkaç kromozon anormallik riskini tespit etmek için önemlidir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 11){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 7,3 cm, kilosu 23 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bu hafta boyu 7,3 cm, ağırlığı ise 23 gram'a ulaştı. Bebeğiniz bu hafta bir siyah erik kadardır. Kemik oluşumu iyice artıyor, el, ayak tırnakları ve bebeğinizin parmak izi tamamen oluştu. Hareketleri iyice belirginleşmeye başladı, gözlerini tamamen kapadı, kız çocuklarda rahim gelişmeye başladı. Göz ve kulaklar asıl alması gereken yerler çekildi. Bebekte vajina ve penis oluşmuş olmasına rağmen cinsiyet için 4 hafta daha beklemeniz gerekecektir. Yeni teknolojilerle bazı doktorlar 12. haftadan itibaren cinsiyetini söylese bile bu tam olarak doğru bir cevap olmaz. Bu haftalarda, 10-14. haftalar arası doktorunuz ikili test olarak bilinen test yapacaktır. Bu test Down sendromu ve birkaç kromozon anormallik riskini tespit etmek için önemlidir.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 12){
-	         recommend.text("Hamilelik haftanız 13:Bebeğinizin boyu 9 cm, kilosu 40 gram.");
+	         recommend.text("Hamilelik haftanız 13: Bu hafta itibari ile bebeğinizin boyu 9 cm, kilosu ise ortalama 40 gram oldu. Bebeğiniz bu hafta bir nektarin kadar oldu. 13. hafta 1. trimester yani ilk 3 aylık dönemin son haftası. 2. trimester bence hamileliğin en güzel zamanlarını kapsıyor. Şikayetlerin en aza indiği ve hamileliği çok güzel hissettiğin döneme kavuşmana sadece bir hafta kaldı. Bebeğin gözleri daha önce birbirinden uzakken bu haftada birbirine yaklaşmaya başlar, kulaklar normal yerlerine doğru ilerler ve bebeğin yüzü normal insan yüzüne benzemeye başlar. Bebeğin ses telleri oluşmaya başlar. Bu haftada bebeğe yakından bakılabilse cinsiyeti dış genital organlarına bakarak söylenebilecek kadar gelişmiştir. Bu haftalarda ancak çok gelişmiş ultrason cihazları ile cinsiyeti tahmin edilebilir, daha net görülebilmesi için bir kaç hafta daha büyümesi gerekecektir. Bu haftada bebeğin karaciğerinden safra sıvısı salgılanabilir, pankreas bezinden insülin üretimi başlamıştır. Bebeğin damaklarının altında 20 adet dişi oluşmuştur. Bu haftalarda, 10-14. haftalar arası doktorunuz ikili test olarak bilinen test yapacaktır. Bu test Down sendromu ve birkaç kromozon anormallik riskini tespit etmek için önemlidir.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 13){
-	         recommend.text("Hamilelik haftanız 14: Bebeğinizin boyu 12 cm, kilosu 60 gram. ");
+	         recommend.text("Hamilelik haftanız 14: Bebeğinizin boyu 12 cm, kilosu ise 60 grama ulaştı. Bu hafta bebeğiniz tıpkı bir elma kadar. İdrar üretimi başlıyor. Bebeğiniz artık daha hareketli el ve avuçlarını açabiliyor, parmağını ağzına götürüp emebiliyor, esneme hareketi yapıyor. Bu hafta tat tomurcukları oluşmaya başladı bebeğiniz artık annenin yediği şeylerin tadını alabiliyor. Bebeğiniz bu haftadan itibaren anne sesini uğultu olarak duyabilir. Anne sesini 25 haftadan sonra net olarak duyar, 27. haftadan itibaren ise dış sesleri duyabilir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 14){
-	         recommend.text("Hamilelik haftanız 15: Bebeğinizin boyu 15 cm, kilosu 90 gram. ");
+	         recommend.text("Hamilelik haftanız 15: Bu hafta bebeğinizin boyu 15 cm, kilosu ise 90 gram oldu. Bu hafta itibari ile bebeğiniz bir portakal kadar oldu. Bebeğiniz 15 haftalıkken tüm eklemlerini hareket ettirebiliyor ama siz bunu hala hissedemezsiniz. Bebeğiniz artık hıçkırabiliyor. Bebeğinizin dilindeki tat alma sinirleri oluşmaya başladı. Sonraki haftalarda bebeğiniz sizin yediğiniz tatları alabilecektir. Bu haftadan itibaren bebeğinizin cildini Lanugo adı verilen tüy kaplamaya başlacak, bu tüyler 26. haftadan itibaren tekrar dökülecektir. Bu hafta doktorunuz üçlü tarama testi isteyebilir. Eğer ikili tarama testinizde her şey normal çıktıysa doktorunuz üçlü tarama testi istemeyebilir.");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
