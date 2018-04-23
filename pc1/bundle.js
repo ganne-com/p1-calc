@@ -429,12 +429,12 @@
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 8){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 2 cm, kilosu 2 gram. ");
+	         recommend.text(" Bebeğinizin boyu 2 cm, kilosu ise 2 gram oldu. Bir fasulye tanesi kadar oldu. 2 Ay 3 günlük oldunuz. Bebeğinizin perdeli yapılar halindeki el ve ayak parmakları artık ayrılmaya başladı. Bebekte kemik ve kıkırdak dokular oluşmaya başlar. Gözler gelişir, dil oluşmaya başlar.  Cinsiyet henüz belli değil. Hareketleri oluştu ama anne hissedemez. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 9){
-	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bebeğinizin boyu 3 cm, kilosu 3 gram. ");
+	         recommend.text("Haftanız Hakkında Kısa Bilgi: Bu hafta bebeğinizin boyu 3 cm, ağırlığı ise 3 gram oldu. Bu haliyle bir çilek kadar oldu. Bu hafta itibarı ile bebeğiniz artık embriyo değil fetus olarak adlandırılacak. Bu aynı zamanda hamilelikte tehlikeli dönemin atlatıldığınında habercisidir. Tırnaklar oluşmaya başlıyor. Dış genital organları belirmeye başladı. Artık organlar tamamlandı bu haftadan itibaren organlar fonksiyonunu tamamlamaya devam edecektir. Bebekte ilk hıçkırıklar (anne bu hıçkırıkları hissedemez) ve kemik yapımı başlıyor. İlk oluşan kemik köpürcük kemiği olacak. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
