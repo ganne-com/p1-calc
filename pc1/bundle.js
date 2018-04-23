@@ -514,37 +514,37 @@
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 25){
-	         recommend.text("Hamilelik haftanız 26: Bebeğinizin boyu 35 cm, kilosu 850 gram. ");
+	         recommend.text("Hamilelik haftanız 26: Bebeğinizin boyu 35 cm, kilosu 850 gram. Bu hafta O’nun yeşil soğan kadar boyu var. Bebeğin göz kapakları bu haftada tamamen açılır ve görme yeteneği kısmen gelişmiştir. Bebeğin çevredeki bazı sesleri duyarak hareket etmesi veya kalp atımının değişmesi mümkündür. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 26){
-	         recommend.text("Hamilelik haftanız 27: Bebeğinizin boyu 36 cm, kilosu 1000 gram. ");
+	         recommend.text("Hamilelik haftanız 27: Bebeğinizin boyu 36 cm, kilosu 1000 gram. O bu hafta koca bir bostan patlıcanı kadar.  Bu haftada bebeğin dilindeki tat tomurcukları oldukça gelişmiştir, örneğin anne çok baharatlı, acı yiyecekler yediğinde bebek bunu algılayabilir. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 27){
-	         recommend.text("Hamilelik haftanız 28: Bebeğinizin boyu 38 cm, kilosu 1200 gram. ");
+	         recommend.text("Hamilelik haftanız 28: Bebeğinizin boyu 38 cm, kilosu 1200 gram. Bir karnabahar kadar oldu. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 28){
-	         recommend.text("Hamilelik haftanız 29: Bebeğinizin boyu 39 cm, kilosu 1350 gram. ");
+	         recommend.text("Hamilelik haftanız 29: Bebeğinizin boyu 39 cm, kilosu 1350 gram. O bir bal kabağı kadar oldu. Bu dönemle beraber bebek çok hızlı bir şekilde kilo almaya başlar. Artık bebeğin en ufak bir hareketi bile anne tarafından rahatlıkla hissedilecektir. Hatta birçok hareketi tekme olarak algılanabilir. Akciğerler artık iyice gelişmeye devam etmektedir. Bununla birlikte kas yapısı da olgunlaşmaktadır. Dolayısıyla bu haftalarda annenin bol miktarda kalsiyum tüketmesi çok önemlidir. Bebeğin kas ve kemik yapısı için bol bol vitamin ve protein içerikli gıdalar tüketmesinde yarar var. Ayrıca bebeğin bu haftayla beraber bağışıklık sistemi oluşmaya başlar. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 29){
-	         recommend.text("Hamilelik haftanız 30: Bebeğinizin boyu 40 cm, kilosu 1500 gram. ");
+	         recommend.text("Hamilelik haftanız 30: Bebeğinizin boyu 40 cm, kilosu 1500 gram.  Bu haliyle bebeğin orta boylu bir lahana kadar. Bu haftada bebek artık neredeyse doğmaya hazırdır diyebiliriz. Şimdiden bebeğinize hoş geldin demelisiniz. Çünkü artık sizi daha net algılıyor. Ruh sağlığı da sizin hamilelik dönemindeki ruh halinizin yansımasıdır. Kilo artışı bu haftada hızla devam eder. Yağ tabakası da gitgide kalınlaşmaktadır. Artık hıçkırıklarını ritmik atışlar şeklinde hissedebilirsiniz. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }	  
 		  if (w == 30){
-	         recommend.text("Hamilelik haftanız 31: Bebeğinizin boyu 41 cm, kilosu 1650 gram. ");
+	         recommend.text("Hamilelik haftanız 31: Bebeğinizin boyu 41 cm, kilosu 1650 gram. Bu haliyle bebeğin bir  pırasa kadar. Bebeğin akciğerleri ve sindirim sistemi hemen hemen tamamen gelişmiştir. Bebeğin göz bebeği (iris) ışıkta genişleme  ve daralma yapabilir. Bebeğin cilt altında beyaz yağ depolanmasından dolayı ciltteki kırmızı renk yerini yeni doğan bebeklerdeki gibi pembe renge bırakır. Bebek gün içerisinde düzenli hareket etmeye başlar. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 31){
-	         recommend.text("Hamilelik haftanız 32: Bebeğinizin boyu 43 cm, kilosu 1850 gram.");
+	         recommend.text("Hamilelik haftanız 32: Bebeğinizin boyu 43 cm, kilosu 1850 gram. Artık Hindistan cevizi kadar. Çalışan anneler için bu haftadan itibaren yasal olarak doğum izni başlar. Eğer kendinizi iyi hissediyorsanız ve doktorunuz da çalışmanızı uygun görüyorsa 37. haftaya kadar çalışmaya devam edebilirsiniz. Yüzündeki kırışıklıklar azalıyor, cilt altı yağ dokusu artmaya devam ediyor bu da cilt görünümünü daha da pembe yapıyor. Ayrıca kolları ve bacakları sevimli tombul görünüme doğru ilerliyor, el ve ayak tırnakları ise tamamen uzadı 🙂 Bebeğiniz doğuma kadar ciddi şekilde kilo almaya devam edecek. Gebeliğinizin 32. haftasından doğuma kadar bebeğinizin hareketlerini daha dikkatli bir şekilde izlemelisiniz ve saymalısınız. 1 saatte kaç kez hareket etti? veya 10 tane hareketi x dakika veya x saatte yapıyor gibi sayısal bilgileri yakından takip etmenizde fayda var. Eğer bebeğiniz az hareket ediyorsa tatlı bir şey yedikten sonra ne kadar hareket ettiğini sayın. Tatlı bir şeyler yemenize rağmen veya eskisine göre bebeğinizin hareketlerinde ciddi bir azalma varsa doktorunuz ile görüşün. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
