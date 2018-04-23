@@ -549,47 +549,47 @@
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 32){
-	         recommend.text("Hamilelik haftanız 33: Bebeğinizin boyu 44 cm, kilosu 2000 gram. ");
+	         recommend.text("Hamilelik haftanız 33: Bebeğinizin boyu 44 cm, kilosu 2000 gram. Bu hafta bebeğiniz bir ananas kadar. 33 haftalık gebelik döneminde bebeğin çevresindeki pek çok sesi işitir. Yüksek sesler ve gürültülü ortamlar bebeğinin irkilmesine neden olur, onu rahatsız eder. 3Artık doğuma kadar bebeğinizin hareketlerini daha dikkatli bir şekilde izlemelisiniz ve saymalısınız. ciddi bir azalma varsa doktorunuz ile görüşün.  ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 33){
-	         recommend.text("Hamilelik haftanız 34: Bebeğinizin boyu 45 cm, kilosu 2200 gram. ");
+	         recommend.text("Hamilelik haftanız 34: Bebeğinizin boyu 45 cm, kilosu 2200 gram. İrice bir mor lahana kadar. Bu haftada bebeğin akciğer ve diğer organları oldukça olgunlaşmıştır o yüzden bu haftadan itibaren doğan bebeklerde solunum sıkıntısı ve diğer problemler çok az görülür. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 34){
-	         recommend.text("Hamilelik haftanız 35: Bebeğinizin boyu 46 cm, kilosu 2500 gram. ");
+	         recommend.text("Hamilelik haftanız 35: Bebeğinizin boyu 46 cm, kilosu 2500 gram. Bu haliyle Meleğin bu hafta ağırlık olarak bir kavun kadar. Doktorunuz artık sizi haftada bir kontrole çağırmaya başlayacak. Bunun sebebi her kontrolde anne adayına NST adı verilen testi uygulamaktır. Nst testi bir taraftan bebeğin kalp seslerini kaydeder ve bir taraftan da rahmin kasılmalarını kaydetmeye yarar. NST testi ile bebeğin o andaki iyilik halini öğrenebilmek mümkündür. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 35){
-	         recommend.text("Hamilelik haftanız 36: Bebeğinizin boyu 47 cm, kilosu 2650 gram. ");
+	         recommend.text("Hamilelik haftanız 36: Bebeğinizin boyu 47 cm, kilosu 2650 gram. irice bir marul kadar. 36. haftada bebek oldukça geliştiği için bu andan itibaren doğan bebekler genellikle yoğun bakıma gerek kalmadan yaşarlar ve çoğunlukla zamanında doğan bebekler gibi bir sıkıntı yaşamadan hayata devam ederler.  ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 36){
-	         recommend.text("Hamilelik haftanız 37: Bebeğinizin boyu 48 cm, kilosu 2800 gram. ");
+	         recommend.text("Hamilelik haftanız 37: Bebeğinizin boyu 48 cm, kilosu 2800 gram. O, bu hafta artık bir kavun kadar oldu!. Gebelik döneminin 37. haftası itibari ile artık bebeğiniz doğuma hazırdır.  ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 37){
-	         recommend.text("Hamilelik haftanız 38: Bebeğinizin boyu 49 cm, kilosu 3000 gram. ");
+	         recommend.text("Hamilelik haftanız 38: Bebeğinizin boyu 49 cm, kilosu 3000 gram. Bir karpuz kadar oldu. Artık doğum hazılıklarınızı tamamlamanız gerekiyor. Doğum çantanızı yanı başınızdan ayırmayınız. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 38){
-	         recommend.text("Hamilelik haftanız 39: Bebeğinizin boyu 50 cm, kilosu 3150 gram. ");
+	         recommend.text("Hamilelik haftanız 39: Bebeğinizin boyu 50 cm, kilosu 3150 gram. Bu haftalarda bebekte kilo almak dışında pek bir değişiklik olmaz. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 39){
-	         recommend.text("Hamilelik haftanız 40: Bebeğinizin boyu 51 cm, kilosu 3350 gram. ");
+	         recommend.text("Hamilelik haftanız 40: Bebeğinizin boyu 51 cm, kilosu 3350 gram. Bu haftalarda bebekte kilo almak dışında pek bir değişiklik olmaz. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
 		  if (w == 40){
-	         recommend.text("Hamilelik haftanız 41:  Bebeğinizin boyu 52 cm, kilosu 3700 gram. ");
+	         recommend.text("Hamilelik haftanız 41:  Bebeğinizin boyu 52 cm, kilosu 3700 gram. Bu haftalarda bebekte kilo almak dışında pek bir değişiklik olmaz. ");
 	         recommendli.show();
 	         cw.colourweeks(0, week);
 	     }
