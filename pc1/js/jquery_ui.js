@@ -8052,9 +8052,10 @@ function Datepicker() {
 		prevText: "Prev", // Display text for previous month link
 		nextText: "Next", // Display text for next month link
 		currentText: "Today", // Display text for current month link
-		monthNames: ["January","February","March","April","May","June",
-			"July","August","September","October","November","December"], // Names of months for drop-down and formatting
-		monthNamesShort: ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"], // For formatting
+		monthNames: ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran',
+		'Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'],
+		monthNamesShort: ['Oca','Şub','Mar','Nis','May','Haz',
+		'Tem','Ağu','Eyl','Eki','Kas','Ara'], // For formatting
 		dayNames: ['Pazar','Pazartesi','Salı','Çarşamba','Perşembe','Cuma','Cumartesi'], // For formatting
 		dayNamesShort: ['Pz','Pt','Sa','Ça','Pe','Cu','Ct'],
 		dayNamesMin: ['Pz','Pt','Sa','Ça','Pe','Cu','Ct'], // Column headings for days starting at Sunday
