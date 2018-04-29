@@ -46,16 +46,18 @@
 
 	    var infoembarazo = (function(){
 
-	        //init datepicker function
+		
+		//init datepicker function
 	        function initdatepicker(){
 	              zdpicker.datepicker({ //Initialize datepicker
-	              dayNamesMin: [ "Pz", "Pzt", "Sa", "Çr", "Pr", "Cu", "Ct" ],
-	              monthNames: [ "ocak", "şubat", "mart", "nisan", "mayıs", "haziran", "temmuz", "ağustos", "eylül", "ekim", "kasım", "aralık" ],
-	              altFormat: "dd-mm-yyyy"
-                   changeMonth: true,
-                   changeYear: true,
+	              altFormat: "dd-mm-yyyy",
+				  changeMonth: true,
+                  changeYear: true,
 	            });
 	        }
+		
+		
+	    
 
 	        //cache DOM variables
 	        var ztargetlist = $('.week-list-calculator');
