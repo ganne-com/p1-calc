@@ -8054,8 +8054,8 @@ function Datepicker() {
 		currentText: "Today", // Display text for current month link
 		monthNames: ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran',
 		'Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'],
-		monthNamesShort: ['Oca','Şub','Mar','Nis','May','Haz',
-		'Tem','Ağu','Eyl','Eki','Kas','Ara'], // For formatting
+		monthNamesShort: ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran',
+		'Temmuz','Ağust','Eylül','Ekim','Kasım','Aralık'], // For formatting
 		dayNames: ['Pazar','Pazartesi','Salı','Çarşamba','Perşembe','Cuma','Cumartesi'], // For formatting
 		dayNamesShort: ['Pz','Pt','Sa','Ça','Pe','Cu','Ct'],
 		dayNamesMin: ['Pz','Pt','Sa','Ça','Pe','Cu','Ct'], // Column headings for days starting at Sunday
