@@ -52,6 +52,8 @@
 	              dayNamesMin: [ "Pz", "Pzt", "Sa", "Çr", "Pr", "Cu", "Ct" ],
 	              monthNames: [ "ocak", "şubat", "mart", "nisan", "mayıs", "haziran", "temmuz", "ağustos", "eylül", "ekim", "kasım", "aralık" ],
 	              altFormat: "dd-mm-yyyy"
+                   changeMonth: true,
+                   changeYear: true,
 	            });
 	        }
 
